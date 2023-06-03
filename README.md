@@ -1,6 +1,8 @@
 # SolarMonk
 SolarMonk Game set in the Wonderverse
 
+Can play with pen and paper and a D6, or can use the spreadsheet included in the repo.
+
 ## SolarMonk
 
 Alice and Cheshire Cat stumble upon a monastery of Benedictine monks as they walk through a forest clearing. They do not know the way to the garden, but they are fascinated by its description, and plan to build their own one day. After a pleasant meal, Alice and Cheshire Cat continue on their way, and the monks continue their life of prayer and sustainable living. How long will they survive?
